@@ -5,6 +5,21 @@
         "author": "Hyper (Automated Merge)"
     },
     {
+        "id": "archaelos_quorgs_characters",
+        "firstNightReminder": "The Archaelos points at an alive player: This ability is passed to them.",
+        "otherNightReminder": "Anyone with the this ability points at an alive player: This ability is passed to them. If they are a Townsfolk, they do not wake otherwise, otherwise they point at two players.",
+        "remindersGlobal": [
+          "ARTIFACT"
+        ],
+        "name": "Archaelos",
+        "team": "minion",
+        "ability": "You start by choosing an alive player to give this ability (not yourself). This is your only ability (if Townsfolk), or this acts twice.",
+        "attribution": "Writeup by Super and Luis",
+        "flavor": "Many believed the ancient artifacts long since dead of power. You are about to find out just how wrong they were.",
+        "firstNight": 11,
+        "otherNight": 5
+      },
+    {
         "id": "highpriestess_stuff_i_merged",
         "image": "https://www.bloodstar.xyz/p/HyperSwag506/Stuff_The_Bot_Is_Missing/highpriestess_stuff_the_bot_is_missing.png",
         "name": "High Priestess",
